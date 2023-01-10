@@ -74,7 +74,8 @@ class messengerdesign extends StatelessWidget {
            SizedBox(height: 20,),
             SingleChildScrollView(
               scrollDirection: Axis.horizontal,
-              child: Row(
+              child: 
+              Row(
                 children: [
                   Container(
                     width: 60,
